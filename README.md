@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - 🌱 招牌项目：[白杉树背单词训练软件](https://github.com/BailPlus/bssenglish)，欢迎下载使用！
 - 💬 QQ：2915289604
 - 📫 邮箱：2915289604@qq.com
+- 🤔 新手上路，请多关照！
 
 [![Bail's github stats](https://github-readme-stats.vercel.app/api?username=BailPlus&theme=light)](https://github.com/BailPlus)
