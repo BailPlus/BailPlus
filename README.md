@@ -1,4 +1,4 @@
-### Hi there 👋
+### 欢迎来到Bail的github主页！ 👋
 
 <!--
 **BailPlus/BailPlus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 本人目前高二在读，是一名学生，也是一名Linux爱好者。目前使用deepin进行开发。
+- ⚡ 我擅长使用Python进行软件开发。
+- 🌱 招牌项目：[白杉树背单词训练软件](https://github.com/BailPlus/bssenglish)，欢迎下载使用！
+- 💬 QQ：2915289604
+- 📫 邮箱：2915289604@qq.com
+
+[![Bail's github stats](https://github-readme-stats.vercel.app/api?username=BailPlus&theme=light)](https://github.com/BailPlus)
