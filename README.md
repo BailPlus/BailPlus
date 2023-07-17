@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 本人目前高二在读，是一名学生，也是一名Linux爱好者。目前使用deepin进行开发。
+- 🔭 本人目前高三在读，是一名学生，也是一名Linux爱好者。目前使用deepin进行开发。
 - ⚡ 我擅长使用Python进行软件开发。
 - 🌱 招牌项目：[白杉树背单词训练软件](https://github.com/BailPlus/bssenglish)，欢迎下载使用！
 - 💬 QQ：2915289604
